@@ -19,3 +19,6 @@ Are you interested in? See my other projects and visit my website [iMedia SysteM
 ## 📝 Feel free to contact me
 Write sth nice ;) Find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️
 &nbsp;
+
+## 👏 Thanks / Special thanks / Credits
+Thanks to my wife – for her time, advice, encouragement and support in creating this project.
