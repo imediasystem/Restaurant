@@ -4,8 +4,6 @@
 
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/Restaurant/)
 
-See the live version of [RESTAURANT](https://imediasystem.github.io/Restaurant/) ↗️
-
 Developing a website for a local restaurant, emphasizing aesthetic design and ease of use with HTML, CSS, JavaScript, jQuery and Bootstrap to attract and retain customers. This project allows me to combine creativity with technical skills.
 
 ## 📚 Key Features
