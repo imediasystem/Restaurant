@@ -4,7 +4,7 @@
 
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/Restaurant/)
 
-Developing a website for a local restaurant, emphasizing aesthetic design and ease of use with HTML, CSS, JavaScript and jQueryto attract and retain customers. This project allows me to combine creativity with technical skills.
+Developing a website for a local restaurant, emphasizing aesthetic design and ease of use with HTML5, CSS3, JavaScript and jQuery to attract and retain customers. This project allows me to combine creativity with technical skills.
 
 ## 📚 Key Features
 * **Fully Responsive Design** – Looks great on mobile, tablet, and desktop.
