@@ -2,7 +2,7 @@
 
 ## 🔥 Project Name - RESTAURANT
 
-[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/SystemWind/)
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/Restaurant/)
 
 See the live version of [RESTAURANT](https://imediasystem.github.io/Restaurant/) ↗️
 
